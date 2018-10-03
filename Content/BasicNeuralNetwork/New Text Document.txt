@@ -1,0 +1,54 @@
+Basic Neural Network
+
+Created by Brian Landes of The Bytes Brothers LLC
+theBytesBrothers@gmail.com
+www.thebytesbrothers.com
+
+Title - Basic Neural Network
+
+Price - $9.99
+
+Short Description - Bring your creatures and characters to life with Neural Networks, an experimental new approach to artificial intelligence
+
+Long Description - Neural Networks are a new math-based approach to simulate an actual brain. They are currently being used to generalize large datasets and categorize images.
+They have only recently been introduced to the field of video games. They have been proven to be an invaluable tool in bringing characters to life and giving them organic thought and movement.
+
+The network takes 1 or more float values as inputs, then returns 1 or more float values as outputs.
+
+The key is in the training; giving the network inputs and the desired correlating outputs. In this way, the network adjusts, improving how it processes the data.
+
+The uses are only limited by your imagination:
+	-Have NPCs wander around, reacting to walls and other stimuli
+	-Have enemies adapt to how the player plays
+	-Teach the player's computer allies to be more effective
+	-Have critters learn and grow in organic animal ways
+
+Features:
+	-Easy to setup and use
+	-The network can save/load itself or return a savable structure value
+	-Self-contained; no outside libraries or resources required otherthan Unreal Engine
+	-Advanced settings allow control over the learning rate and the activation function's steepness
+
+
+Number of Blueprints: 7
+	5 Blueprint class
+	2 Structures
+
+Features:
+ 	-An easy-to-use neural network for AI, data mining, or machine learning
+	-Takes any number of floats, processes them, and returns any number of outputs
+	-Any size or shape: any number of inputs, outputs, and hidden layers
+	-Can be trained to find almost any pattern, even ones that may not be obvious to humans
+	-Supports 'supervised training'
+
+Video Link:
+
+Engine Compatibility: 4.9.2
+
+Intended Platform: Windows (Should work fine on all platforms though)
+
+Platforms Tested: Windows & Android
+
+Documentation Included: Yes
+
+Important/Additional Notes: Demo level included, demonstrates two example uses of the neural networks and how to train them
